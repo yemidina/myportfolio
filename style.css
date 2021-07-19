@@ -349,9 +349,9 @@ body {
   background-color: transparent;
   width: 200px;
   height: 300px;
-  perspective: 1000px;
-  width: 1000px;
-  transform: translate(28%,20%);
+  perspective: 500px;
+  width: 500px;
+  transform: translate(20%,20%);
 }
 
 .flip-card-inner {
