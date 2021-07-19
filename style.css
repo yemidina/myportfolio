@@ -210,17 +210,11 @@ position: absolute;
 	font-size: 10px;
 	background:#ffffff;
 	color: white;
-	
+	position:fixed;
 	justify-content: center;
 	margin-right: 10px;
 	height: 100px;
 	width: 5%;
-	
-	bottom: 0;
-	left: 0;
-
-	
-	margin-right: 0;
 	text-align: center;
 	
 }
@@ -351,7 +345,7 @@ body {
   height: 300px;
   perspective: 500px;
   width: 500px;
-  transform: translate(2%,20%);
+  transform: translate(1%,20%);
 }
 
 .flip-card-inner {
