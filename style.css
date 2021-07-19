@@ -453,7 +453,7 @@ p {
   outline: gold solid 4px;
   margin: 0; 
 justify-content:center;
-min-height:100vh;
+max-height:50vh;
   padding: 0;
   text-align: center;
 	align-items:center;
