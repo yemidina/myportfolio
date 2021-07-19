@@ -451,13 +451,16 @@ body {
 p {
   border: 1px solid black;
   outline: gold solid 4px;
-  margin: auto;  
-  padding: 50px;
+  margin: 0; 
+justify-content:center;
+min-height:100vh;
+  padding: 0;
   text-align: center;
+	align-items:center;
   width: 100%;
 	
   color: white;
-  font-size: 6px;
+  font-size: 10px;
 
 
 }
